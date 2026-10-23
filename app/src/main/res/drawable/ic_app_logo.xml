@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Outer glow / soft shadow ring -->
+    <path
+        android:fillColor="#15F59E0B"
+        android:pathData="M60,6 C30.18,6 6,30.18 6,60 C6,89.82 30.18,114 60,114 C89.82,114 114,89.82 114,60 C114,30.18 89.82,6 60,6 Z" />
+    
+    <!-- Outer rounded card badge -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M35,20 L85,20 C93.28,20 100,26.72 100,35 L100,85 C100,93.28 93.28,100 85,100 L35,100 C26.72,100 20,93.28 20,85 L20,35 C20,26.72 26.72,20 35,20 Z" />
+
+    <!-- Gold border trim -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M35,20 L85,20 C93.28,20 100,26.72 100,35 L100,85 C100,93.28 93.28,100 85,100 L35,100 C26.72,100 20,93.28 20,85 L20,35 C20,26.72 26.72,20 35,20 Z" />
+
+    <!-- Inner indigo container -->
+    <path
+        android:fillColor="#312E81"
+        android:pathData="M38,28 L82,28 C87.52,28 92,32.48 92,38 L92,82 C92,87.52 87.52,92 82,92 L38,92 C32.48,92 28,87.52 28,82 L28,38 C28,32.48 32.48,28 38,28 Z" />
+
+    <!-- Ticket notches on sides -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M20,54 A6,6 0 0 1 20,66 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M100,54 A6,6 0 0 0 100,66 Z" />
+
+    <!-- Central Gold Diamond Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M60,34 L78,60 L60,86 L42,60 Z" />
+
+    <!-- Pure White Inner Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,46 L70,60 L60,74 L50,60 Z" />
+</vector>

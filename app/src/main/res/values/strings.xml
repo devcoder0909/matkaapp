@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CARLO 567</string>
+    <string name="error_no_internet_title">No Internet Connection</string>
+    <string name="error_no_internet_msg">Unable to connect to CARLO 567. Please check your data connection or Wi-Fi.</string>
+    <string name="error_ssl_title">Security Warning</string>
+    <string name="error_ssl_msg">The SSL certificate of the website could not be verified securely.</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="btn_exit">Exit</string>
+    <string name="press_again_to_exit">Press back again to exit</string>
+    <string name="download_started">Downloading file...</string>
+    <string name="download_complete">Download completed</string>
+    <string name="no_app_to_handle">No application available to open this link</string>
+    <string name="splash_tagline">Fast &amp; Secure Online Access</string>
+    <string name="splash_loading">Initializing secure connection…</string>
+</resources>

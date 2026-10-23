@@ -1,0 +1,6 @@
+{
+  "name": "CARLO 567",
+  "description": "Ultra-lightweight, secure Android WebView application for matkabooking.online with seamless navigation, UPI payment support, and offline recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
